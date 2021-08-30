@@ -10,5 +10,5 @@ however every right guess will be rewarded with an addition of five to your curr
 * animation when ball is found
 
 ## showcase
-![Huetchenspiel](https://github.com/KirishanthRajaraj/Files.git/master/mainscreen_huetchenspiel.png "Mainscreen Huetchenspiel")
 
+![Becherspiel](https://user-images.githubusercontent.com/66206290/131322852-a3f07685-7e9c-412c-92f7-f805585c9630.png)
