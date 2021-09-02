@@ -1,7 +1,7 @@
 # Hütchenspiel
 ## What is Hütchenspiel
 Hütchenspiel is a cup game, where three cups are displayed and in one of them there is a red ball hidden.
-Your oal is to guess where the red ball is hidden. Every wrong guess will be punished by a subtraction of five on your current balance,
+Your goal is to guess where the red ball is hidden. Every wrong guess will be punished by a subtraction of five on your current balance,
 however every right guess will be rewarded with an addition of five to your current balance. The images used in Hütchenspiel were custom made.
 It's also worth mentioning that Hütchenspiel was programmed by me in my early coding days, so don't judge my amateur code.
 
